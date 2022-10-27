@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "HTML",
+        "description": "Learn HTML"
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "description": "Learn CSS"
+    },
+    {
+        "id": "3",
+        "name": "JavaScript",
+        "description": "Learn JavaScript"
+    },
+    {
+        "id": "4",
+        "name": "React",
+        "description": "Learn React"
+    },
+    {
+        "id": "5",
+        "name": "Redux",
+        "description": "Learn Redux"
+    },
+    {
+        "id": "6",
+        "name": "Node",
+        "description": "Learn Node"
+    }
+]
